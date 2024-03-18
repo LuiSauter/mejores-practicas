@@ -1,4 +1,4 @@
-# ¿Cómo Hacer Un Commit En Git?
+# ¿Cómo hacer un buen Commit en Git?
 Para poder crear un commit utilizaremos el commando git commit
 
 ```bash
