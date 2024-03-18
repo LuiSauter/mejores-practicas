@@ -22,7 +22,7 @@ Describe o proporcione una pequeña descripción de la Pull Request.
 - [ ] Mis cambios no generan nuevas advertencias.
 - [ ] Agregué tests que demuestran que mi solución es efectiva o que mi función funciona
 - [ ] He agregado tests para cubrir mis cambios.
-- [ ] Las tests unitarios nuevos y existentes pasan localmente con mis cambios
+- [ ] Los tests unitarios nuevos y existentes pasan localmente con mis cambios
 
 ## Revisores:
 - [ ] @Dev 1
