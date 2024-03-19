@@ -49,6 +49,6 @@ añade, crea, remueve, cambia, soluciona y la descripción que generemos.
 
 
 > [!IMPORTANT]
-> NO se usan puntos finales al término de la descripción y La séptima recomendación es: La descripción deberá tener como máximo hasta 50 caracteres.
+> NO se usan puntos finales al término de la descripción: La descripción deberá tener como máximo hasta 50 caracteres.
 
 A continuación te recomiendo ver lo siguiente: [Como crear una pull request con buenas prácticas](/pull_request/pull_request.md)

@@ -10,7 +10,7 @@ Este repositorio contiene una guía de mejores prácticas para el desarrollo col
   - [Plantilla de Solicitud de Funcionalidad](issues/ISSUE_TEMPLATE/feature_request.md)
 - [Pull Requests](pull_request/pull_request.md)
   - [Plantilla de Pull Request](pull_request/PULL_REQUEST_TEMPLATE/pull_request_template.md)
-- [Versionamiento Semantico](/versionamiento-semantico/semver.md)
+- [Versionamiento Semantico y Release](/versionamiento-semantico/semver.md)
 
 ## Commits
 
