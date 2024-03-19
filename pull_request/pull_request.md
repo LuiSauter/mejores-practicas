@@ -15,7 +15,7 @@ Escribir una buena descripción en una Pull Request es una de las partes más im
 
 Escribir una descripción completa en una Pull Request ayudará a dar contexto en la revisión.
 
-[Usar un Template para PR's](/doc/PULL_REQUEST_TEMPLATE/pull_request_template.md)
+[Usar un Template para PR's](PULL_REQUEST_TEMPLATE/pull_request_template.md)
 
 ### Para el tempate en github
 
@@ -41,3 +41,5 @@ Escribir una descripción completa en una Pull Request ayudará a dar contexto e
 Cuando abres una Pull Requests los revisores estarán haciendo un gran esfuerzo por meterse tu problema en la cabeza, y es menos costoso para ellos cambiar de foco varias veces en poco tiempo que en mucho tiempo.
 
 Por ejemplo, si abres una Pull Request y te dejan comentarios, no contestes a los comentarios al día siguiente o a los dos días porque los revisores ya se habrán olvidado de ella y necesitarán un buen rato para volver a ponerse en contexto. Sin embargo, si la cerráis en 3 horas ya tendrán el problema en la cabeza y les costará menos cambiar su foco de concentración.
+
+A continuación te recomiendo ver lo siguiente: [Como gestionar el versionamiento de tu software](/versionamiento-semantico/semver.md)

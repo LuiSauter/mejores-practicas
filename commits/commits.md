@@ -9,9 +9,10 @@ El flag -m agregado al comando git commit nos permitirá agregar un commit a la 
 
 Ten en consideración lo siguiente: Probablemente el commit que generas hoy, lo tendrás que volver a revisar en algún tiempo: días, semanas, meses o años y si no damos la descripción adecuada, probablemente se vuelva un lío.
 
-Para que esto no suceda, en la comunidad hay distintas sugerencias, sin embargo, una de las más utilizadas, se denomina conventional commits, te dejo la referencia en español.
+Para que esto no suceda, en la comunidad hay distintas sugerencias, sin embargo, una de las más utilizadas, se denomina conventional commits.
 
 En términos resumidos, conventional commits sugiere lo siguiente:
+
 ### El mensaje del commit deberá seguir una estructura, la cual es:
 
 ```
@@ -49,3 +50,5 @@ añade, crea, remueve, cambia, soluciona y la descripción que generemos.
 
 > [!IMPORTANT]
 > NO se usan puntos finales al término de la descripción y La séptima recomendación es: La descripción deberá tener como máximo hasta 50 caracteres.
+
+A continuación te recomiendo ver lo siguiente: [Como crear una pull request con buenas prácticas](/pull_request/pull_request.md)
