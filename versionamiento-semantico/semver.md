@@ -19,3 +19,6 @@ El versionamiento semántico sigue tres números de versión en el formato `X.Y.
 Se recomienda ver el siguiente video
 
 [Versiones de software ¿Cómo funcionan?](https://youtu.be/lC73oir6mrE?si=XJrUD5WiQzreO_3Y)
+
+## Administrar versiones
+[Como crear un Release en GitHub](https://youtu.be/z9KVFq_fzsY?si=DNiv4jUpsxP2wNQP)
